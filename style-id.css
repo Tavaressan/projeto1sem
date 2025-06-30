@@ -1,0 +1,40 @@
+#banner img {
+    width: 100%;
+    height: 20%;
+}
+#store-description{
+    text-align: center;
+    padding: 32px;
+    border-bottom: 1px solid #ccc;
+
+}
+
+#store-description p {
+    margin-top: 16px;
+}
+
+#contact-us {
+    background-color: #323232;
+    color: #fff;
+    padding: 128px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+#contact-us ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+}
+
+#contact-us ul li {
+    list-style-type: none;
+}
+
+#contact-us a {
+    color: #fff;
+
+}
